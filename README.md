@@ -7,4 +7,4 @@ garlic bred
 
 Play rn:
 
-https://realdogguy.github.io/UntitledRagdollGameWEB/
+https://realdogguy.github.io/UntitledRagdollGameWEBGL/
